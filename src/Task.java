@@ -90,8 +90,8 @@ public class Task {
 				break;
 
 			case "xml":
-				moveTo(test);
-				addCount(test, file);
+				moveTo(dev);
+				addCount(dev, file);
 				break;
 			}
 
