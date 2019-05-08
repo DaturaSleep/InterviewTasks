@@ -7,6 +7,6 @@ By each link you can find original text of task, text translated by Google and s
 I hope this will help you sometime!  
 
   
-## Here are links to the tasks by company name:  
-* [Pretius](https://github.com/DaturaSleep/InterviewTasks/tree/master/src/pretius) 
+## Here are links to the tasks by name:  
+* [File Transporter](https://github.com/DaturaSleep/InterviewTasks/tree/master/src/pretius) 
 
