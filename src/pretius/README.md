@@ -1,4 +1,4 @@
-# PRETIUS  
+# File Transformer 
   
 ## 1.	Opis i cel zadania  
 Twoim zadaniem jest napisanie programu, który będzie umożliwiał segregowanie plików. Program powinien:  
